@@ -1,0 +1,10 @@
+{
+  "name": "AI Voice Assistant",
+  "description": "A comprehensive AI Voice Assistant with React frontend and FastAPI backend.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
